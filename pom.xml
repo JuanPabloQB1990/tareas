@@ -78,7 +78,7 @@
 					<argLine>-Xshare:off</argLine>
 					<forkCount>3</forkCount>
 					<reuseForks>true</reuseForks>
-					<argLine>-Xmx1024m -XX:MaxPermSize=256m</argLine>
+<!--					<argLine>-Xmx1024m -XX:MaxPermSize=256m</argLine>-->
 					<testFailureIgnore>true</testFailureIgnore>
 				</configuration>
 
