@@ -76,7 +76,9 @@
 				<version>2.22.2</version> <!-- o la versión que estés usando -->
 				<configuration>
 					<argLine>-Xshare:off</argLine>
+					<forkCount>0</forkCount>
 				</configuration>
+
 			</plugin>
 		</plugins>
 	</build>
